@@ -1,8 +1,8 @@
 # WEBPUMP 🚀
 
 <div align="center">
-  <img src="public/logo192.png" alt="WEBPUMP Logo" width="120"/>
-  
+  ![logo](https://github.com/user-attachments/assets/10bc8bb3-5f11-4458-9866-c5f46b5a938a)
+
   *Elevate Your Solana Token's Online Presence Instantly*
 </div>
 
