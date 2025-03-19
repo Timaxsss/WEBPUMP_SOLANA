@@ -1,4 +1,4 @@
-# WEBPUMP 🚀 [WEBPUMP.xyz](https://webpump.xyz)
+# WEBPUMP 🚀 [WEBPUMP](https://webpump.xyz)
 *Elevate Your Solana Token's Online Presence Instantly*
 
 ## Transform Your Token's Web Presence
